@@ -325,7 +325,7 @@ ISO 9001
 #### צור קשר
 
 
-- [business_email]
+- proces@outlook.co.il
 
 - 077-4243446
 
@@ -879,7 +879,7 @@ Description: משירות ניקיון למשרדים ועד השמת כח אד�
 #### צור קשר
 
 
-- [business_email]
+- proces@outlook.co.il
 
 - 077-4243446
 
@@ -1341,7 +1341,7 @@ Description: למה לבחור בנו? Proces מציגה בגאווה את תע�
 #### צור קשר
 
 
-- [business_email]
+- proces@outlook.co.il
 
 - 077-4243446
 
@@ -1569,7 +1569,7 @@ Description: מוכנים להקפיץ את רמת הניקיון והכוח א�
 
 
 
-[business_email]
+proces@outlook.co.il
 
 
 
@@ -1725,7 +1725,7 @@ Description: מוכנים להקפיץ את רמת הניקיון והכוח א�
 #### צור קשר
 
 
-- [business_email]
+- proces@outlook.co.il
 
 - 077-4243446
 
@@ -1935,7 +1935,7 @@ Proces ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 
 - חברה: Proces
 
-- אימייל: [business_email]
+- אימייל: proces@outlook.co.il
 
 - טלפון: 077-4243446
 
@@ -1985,7 +1985,7 @@ Proces ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 #### צור קשר
 
 
-- [business_email]
+- proces@outlook.co.il
 
 - 077-4243446
 
@@ -2203,7 +2203,7 @@ Proces מחויבת להנגיש את השירותים לכלל הציבור. א
 
 - חברה: Proces
 
-- אימייל: [business_email]
+- אימייל: proces@outlook.co.il
 
 - טלפון: 077-4243446
 
@@ -2254,7 +2254,7 @@ Proces מחויבת להנגיש את השירותים לכלל הציבור. א
 #### צור קשר
 
 
-- [business_email]
+- proces@outlook.co.il
 
 - 077-4243446
 
@@ -2495,7 +2495,7 @@ Proces מספקת Cleaning & Staffing Services דרך האתר. השירותים
 
 - חברה: Proces
 
-- אימייל: [business_email]
+- אימייל: proces@outlook.co.il
 
 - טלפון: 077-4243446
 
@@ -2542,7 +2542,7 @@ Proces מספקת Cleaning & Staffing Services דרך האתר. השירותים
 #### צור קשר
 
 
-- [business_email]
+- proces@outlook.co.il
 
 - 077-4243446
 
