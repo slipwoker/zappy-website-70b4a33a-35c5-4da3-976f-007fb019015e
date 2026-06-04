@@ -1,0 +1,79 @@
+# Proces — Generative Engine Optimization Map
+
+> Proces is a professional cleaning and staffing company serving private businesses, factories, and high-tech offices in Israel. The company holds all required government certifications and approvals, positioning itself as a reliable, compliant, and trustworthy partner for corporate clients. The brand aims to project a premium, modern, and welcoming image while maintaining clarity and accessibility. The website should include a dedicated About page showcasing insurance documents and company credentials, reinforcing trust and professionalism.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים שירותי ניקיון לעסקים או כוח אדם אמין? Proces מביאה פתרונות נקיון וכח אדם מקצועיים למפעלים, משרדים וחברות הייטק עם כל האישורים הנדרשים. הצטרפו למאות לקוחות מרוצים.
+
+### שירותים
+https://example.com/services
+משירות ניקיון למשרדים ועד השמת כח אדם לחברות – Proces מתאימה לכם חבילת שירותים מושלמת עם צוותים מיומנים, ציוד מתקדם וסטנדרטים מחמירים. גלו איך נהפוך את העסק שלכם לנקי ויעיל יותר.
+
+### אודות
+https://example.com/about
+למה לבחור בנו? Proces מציגה בגאווה את תעודות הביטוח, ההסמכות הממשלתיות והאישורים שהופכים אותנו לשותף המועדף לניקיון וכוח אדם לעסקים פרטיים. היכנסו להכיר את המקצוענות מאחורי השם.
+
+### צור קשר
+https://example.com/contact
+מוכנים להקפיץ את רמת הניקיון והכוח אדם בעסק שלכם? השאירו פרטים ונחזור אליכם עם הצעה מותאמת אישית. Proces – הדרך הנקייה והבטוחה להצלחה תפעולית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Proces
+Proces is a professional cleaning and staffing company serving private businesses, factories, and high-tech offices in Israel. The company holds all required government certifications and approvals, positioning itself as a reliable, compliant, and trustworthy partner for corporate clients. The brand aims to project a premium, modern, and welcoming image while maintaining clarity and accessibility. The website should include a dedicated About page showcasing insurance documents and company credentials, reinforcing trust and professionalism.
+
+## Target Audience
+- עסקים פרטיים, מפעלים, משרדי הייטק וארגונים עסקיים
+- עסקים פרטיים
+- מפעלים תעשייתיים
+- משרדי הייטק
+
+## Industry
+Cleaning & Staffing Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
