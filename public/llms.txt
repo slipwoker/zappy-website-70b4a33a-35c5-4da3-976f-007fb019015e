@@ -40,7 +40,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: 077-4243446
+- Phone (tel): tel:0774243446
+- Address: הנגב 2, איירפורט סיטי
 
 ### Contact form
 - URL: https://example.com/contact

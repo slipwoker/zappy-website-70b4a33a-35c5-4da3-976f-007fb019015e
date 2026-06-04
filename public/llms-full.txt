@@ -327,9 +327,9 @@ ISO 9001
 
 - [business_email]
 
-- [business_phone]
+- 077-4243446
 
-- [business_address]
+- הנגב 2, איירפורט סיטי
 
 
 
@@ -881,9 +881,9 @@ Description: משירות ניקיון למשרדים ועד השמת כח אד�
 
 - [business_email]
 
-- [business_phone]
+- 077-4243446
 
-- [business_address]
+- הנגב 2, איירפורט סיטי
 
 
 
@@ -1343,9 +1343,9 @@ Description: למה לבחור בנו? Proces מציגה בגאווה את תע�
 
 - [business_email]
 
-- [business_phone]
+- 077-4243446
 
-- [business_address]
+- הנגב 2, איירפורט סיטי
 
 
 
@@ -1481,7 +1481,7 @@ Description: מוכנים להקפיץ את רמת הניקיון והכוח א�
 
 חייגו אלינו לכל שאלה או בקשה דחופה. אנחנו זמינים בימים א'-ה' בין השעות 08:00-18:00.
 
-[business_phone]
+077-4243446
 
 
 
@@ -1573,7 +1573,7 @@ Description: מוכנים להקפיץ את רמת הניקיון והכוח א�
 
 
 
-[business_phone]
+077-4243446
 
 
 
@@ -1727,9 +1727,9 @@ Description: מוכנים להקפיץ את רמת הניקיון והכוח א�
 
 - [business_email]
 
-- [business_phone]
+- 077-4243446
 
-- [business_address]
+- הנגב 2, איירפורט סיטי
 
 
 
@@ -1937,9 +1937,9 @@ Proces ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 077-4243446
 
-- כתובת: [business_address]
+- כתובת: הנגב 2, איירפורט סיטי
 
 
 
@@ -1987,9 +1987,9 @@ Proces ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 
 - [business_email]
 
-- [business_phone]
+- 077-4243446
 
-- [business_address]
+- הנגב 2, איירפורט סיטי
 
 
 
@@ -2205,7 +2205,7 @@ Proces מחויבת להנגיש את השירותים לכלל הציבור. א
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 077-4243446
 
 
 
@@ -2256,9 +2256,9 @@ Proces מחויבת להנגיש את השירותים לכלל הציבור. א
 
 - [business_email]
 
-- [business_phone]
+- 077-4243446
 
-- [business_address]
+- הנגב 2, איירפורט סיטי
 
 
 
@@ -2497,9 +2497,9 @@ Proces מספקת Cleaning & Staffing Services דרך האתר. השירותים
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 077-4243446
 
-- כתובת: [business_address]
+- כתובת: הנגב 2, איירפורט סיטי
 
 
 
@@ -2544,9 +2544,9 @@ Proces מספקת Cleaning & Staffing Services דרך האתר. השירותים
 
 - [business_email]
 
-- [business_phone]
+- 077-4243446
 
-- [business_address]
+- הנגב 2, איירפורט סיטי
 
 
 
